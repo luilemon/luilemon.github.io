@@ -1,2 +1,2 @@
 # lemon
-lemon graphic website
+portfolio website
