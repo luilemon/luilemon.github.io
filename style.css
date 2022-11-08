@@ -15,7 +15,7 @@ span{
     display:inline-block;
     font-weight:500;
     animation: mover 6s linear infinite;
-    color: #ffb80a
+    color: #FFFFFF
 }
 @keyframes mover{
   0%{
